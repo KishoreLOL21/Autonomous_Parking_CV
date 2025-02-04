@@ -86,6 +86,8 @@ Python Environment Setup
   venv\Scripts\activate     # Windows
   pip install -r requirements.txt
 
+Tesseract Download for the Code: https://sourceforge.net/projects/tesseract-ocr.mirror/ 
+
 Configure ESP32-CAM
 
 Update CameraWebServer.ino with your Wi-Fi credentials and Flask server IP.
